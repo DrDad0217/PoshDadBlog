@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>Chirpy</title>
+  <title>ThePoshDad</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-10-02T13:00:52-05:00</updated>
+  <updated>2022-10-02T13:10:51-05:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,94 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Five things I wish I would of learned sooner in Powershell</title>
+    <link href="http://localhost:4000/posts/Five-Things-Powershell/" rel="alternate" type="text/html" title="Five things I wish I would of learned sooner in Powershell" />
+    <published>2022-08-31T14:03:31-05:00</published>
+  
+    <updated>2022-08-31T14:03:31-05:00</updated>
+  
+    <id>http://localhost:4000/posts/Five-Things-Powershell/</id>
+    <content src="http://localhost:4000/posts/Five-Things-Powershell/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Powershell" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  Snacking with Penny :baby:
+  Using Parentheses
+  Customizing user profile
+  Alias shortcuts to improve productivity
+  Using the help file
+  Using Get Member
+  Creating reusable tools
+  Error handling
+  Passing objects through the piple Byvalue and Byproperty
+  PScustomobject
+  Hash Tables (Nested too?)
+  Arrays
+  Errors and Exception handling
+  Switch
+
+
+Using Parentheses
+
+Using parentheses c...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>My First Blog Post</title>
+    <link href="http://localhost:4000/posts/First-Post/" rel="alternate" type="text/html" title="My First Blog Post" />
+    <published>2022-08-31T14:03:31-05:00</published>
+  
+    <updated>2022-08-31T14:03:31-05:00</updated>
+  
+    <id>http://localhost:4000/posts/First-Post/</id>
+    <content src="http://localhost:4000/posts/First-Post/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Powershell" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I would like to start this post off by introducing myself, my name is Tanner and I’m a father and Powershell enthusiast. My passion for both of these things in my life is what lead
+me to use the name PoshDad. My goal for this blog is to create a library full of helpful resources not only for myself but the tech community as a whole. I also want to show the relatable struggles of learning and th...
+    </summary>
+  
+
+  </entry>
 
 </feed>
 
